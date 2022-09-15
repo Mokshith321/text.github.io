@@ -1,6 +1,6 @@
 #gradient{
-    width: 102vw;
-    height: 102vh;
+    width: 100vw;
+    height: 100vh;
     background-color: black;
     margin-top: -1%;
     margin-left: -1%;
@@ -14,8 +14,8 @@
     height: 90vh;
     background-color: white;
     position: absolute;
-    top: 5vh;
-    left: 5vw;
+    top: 4vh;
+    left: 4vw;
     text-align: center;
     border-radius: 80px;
     border: 3px dashed white;
